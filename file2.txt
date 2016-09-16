@@ -1,0 +1,8 @@
+        .-simple-chart-holder {
+            float: left;
+            position: relative;
+            width: 100%;
+            background-color: #fff;
+            border: 1px solid #cecece;
+            /*padding: 6px;*/
+        }

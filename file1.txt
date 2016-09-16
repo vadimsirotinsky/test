@@ -1,0 +1,9 @@
+        .down-triangle {
+            width: 0;
+            height: 0;
+            border-top: 10px solid #d0d0d0;
+            border-left: 6px solid transparent;
+            border-right: 6px solid transparent;
+            position: absolute;
+            left: -200px;
+        }
